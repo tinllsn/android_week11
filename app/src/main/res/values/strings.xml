@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Find My Phone</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="google_map_api_key">AIzaSyA5q_xF9chTLRAFxPM9a963qeovUifmHp4</string>
+</resources>
